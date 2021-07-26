@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.time {
+    position: absolute;
+    top: 50%;;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.time p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 60px;
+    margin: 1rem;
+}
